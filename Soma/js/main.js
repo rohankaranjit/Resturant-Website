@@ -1,4 +1,4 @@
-e
+
 function main() {
 (function () {
    'use strict';
