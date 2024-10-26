@@ -9,8 +9,7 @@
 // Licensed under the terms of the MIT license.
 
 // People involved
-//  - Balazs Galambosi (maintainer)  
-//  - Michael Herf     (Pulse Algorithm)
+//  - Balazs Galambosi 
 
 (function(){
   
