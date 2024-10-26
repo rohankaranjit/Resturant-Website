@@ -3,7 +3,6 @@
 
 
 
-
 // SmoothScroll for websites v1.2.1
 // Licensed under the terms of the MIT license.
 
