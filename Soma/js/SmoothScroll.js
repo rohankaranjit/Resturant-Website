@@ -9,7 +9,7 @@
 // Licensed under the terms of the MIT license.
 
 // People involved
-//  - Balazs Galambosi 
+// 
 
 (function(){
   
